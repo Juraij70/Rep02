@@ -3,7 +3,6 @@
          margin: 0;
          font-family: 'poppins', sans-serif;
       }
-
       /* for the background and centers the calculator in the middle*/
       body{
          display: grid;
